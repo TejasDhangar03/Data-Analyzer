@@ -75,16 +75,6 @@ The main objective of this project is to provide an easy way to:
 
 ---
 
-### 🔹 Data Input Section
-
-
----
-
-### 🔹 Graph Output
-
-
----
-
 ## 💡 Use Cases
 
 - Data Exploration  
@@ -104,8 +94,27 @@ The main objective of this project is to provide an easy way to:
 
 ---
 
+
+### 🔹 Main Libraries Used
+
+- pandas  
+- numpy  
+- plotly  
+- streamlit  
+- cufflinks  
+
+---
+
+## ⚙️ Optional (Manual Install)
+
+If you prefer installing manually:
+
+```bash
+pip install pandas numpy plotly streamlit cufflinks
+
+---
+
 ## 👨‍💻 Author
 
 Tejas Dhangar
 
-## 📂 Project Structure
