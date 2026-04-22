@@ -55,12 +55,23 @@ The main objective of this project is to provide an easy way to:
 ---
 
 
----
-
 ## 📸 Screenshots
 
-### 🔹 GUI Interface
-[ Add Screenshot Here ]
+### 🖥️ CLI Interface
+
+| CLI Output 1 | CLI Output 2 |
+|-------------|-------------|
+| ![CLI 1](CLI_1.png) | ![CLI 2](CLI_2.png) |
+
+---
+
+### 🌐 GUI Interface (Streamlit)
+
+| GUI Screen 1 | GUI Screen 2 |
+|--------------|--------------|
+| ![GUI 1](GUI_1.png) | ![GUI 2](GUI_2.png) |
+
+
 
 ---
 
