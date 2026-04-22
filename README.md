@@ -111,6 +111,7 @@ If you prefer installing manually:
 
 ```bash
 pip install pandas numpy plotly streamlit cufflinks
+```
 
 ---
 
